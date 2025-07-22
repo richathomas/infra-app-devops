@@ -4,10 +4,13 @@ The main goal of this project is to implement DevOps practices in the Go web app
 
 ## DevOps practices include the following:
 
-Creating Dockerfile (Multi-stage build)
-Containerization
-Continuous Integration (CI)
-Continuous Deployment (CD)
+🔷 Creating Dockerfile (Multi-stage build)
+
+🔷 Containerization
+
+🔷 Continuous Integration (CI)
+
+🔷 Continuous Deployment (CD)
 
 
 ## Summary Diagram
