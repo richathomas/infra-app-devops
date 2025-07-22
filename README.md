@@ -12,4 +12,4 @@ Continuous Deployment (CD)
 
 Summary Diagram
 
-./img5.png
+<img width="2048" height="748" alt="img5" src="https://github.com/user-attachments/assets/5d47eede-a4c1-411d-8108-003d8b72443c" />
