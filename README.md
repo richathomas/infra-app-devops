@@ -52,8 +52,11 @@ We will use GitHub Actions to implement CI for the Go web application. GitHub Ac
 The GitHub Actions workflow will run the following steps:
 
 🔷 Checkout the code from the repository
+
 🔷 Build the Docker image
+
 🔷 Run the Docker container
+
 🔷 Run tests
 
 ### Continuous Deployment (CD) 
